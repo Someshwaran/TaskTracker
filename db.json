@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "remainder": true
+    },
+    {
+      "id": 5,
+      "text": "Test Appointment",
+      "day": "May 5th at 4:30pm",
+      "remainder": true
+    },
+    {
+      "text": "Cyper meeting ",
+      "day": "Monday 9 21 : 5pm",
+      "remainder": true,
+      "id": 7
+    },
+    {
+      "text": "Kick start program event ",
+      "day": "Wednesday 11 2021 : 9am",
+      "remainder": true,
+      "id": 8
+    },
+    {
+      "text": "oehrtl.ren",
+      "day": "sdf/go",
+      "remainder": false,
+      "id": 14
+    },
+    {
+      "text": "First Angular App",
+      "day": "Friday 7 2022 :> 10:30pm",
+      "remainder": true,
+      "id": 15
+    }
+  ]
+}
