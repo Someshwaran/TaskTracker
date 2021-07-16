@@ -1,4 +1,4 @@
-# HelloWorld
+# TaskTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Design :> 
+
+![image](https://user-images.githubusercontent.com/13714754/125984986-37d9732f-306b-4c43-9a1b-13bc1c64cb82.png)
+
+![image](https://user-images.githubusercontent.com/13714754/125984935-3624b019-adae-4250-8e8c-37c4734bcc44.png)
